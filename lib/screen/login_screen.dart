@@ -62,7 +62,8 @@ class _MyStateFullState extends State<MyStateFull> {
               controller: nameController,
               decoration: const InputDecoration(
                 border: OutlineInputBorder(),
-                labelText: 'your@gmail.com',
+                labelText: 'OKyour@gmail.com',
+                //ok gaS
               ),
             ),
           ),
