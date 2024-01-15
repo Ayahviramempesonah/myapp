@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290301871991",
+    "project_id": "go-otsourcing",
+    "storage_bucket": "go-otsourcing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290301871991:android:54a8c28c02277b3773c372",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290301871991-ijhv8uuvlm885lhbkhnfsdr9kf1o74s1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSwsPph8yRGPklIsIDA-B9GycYKtV6cMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290301871991-ijhv8uuvlm885lhbkhnfsdr9kf1o74s1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
